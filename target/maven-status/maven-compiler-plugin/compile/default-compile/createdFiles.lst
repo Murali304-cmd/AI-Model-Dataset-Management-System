@@ -1,0 +1,16 @@
+dao\ModelDAO.class
+ui\DatasetPanel.class
+ui\ModelPanel$4.class
+model\AIModel.class
+ui\DatasetPanel$4.class
+ui\ModelPanel$3.class
+ui\DatasetPanel$3.class
+ui\DatasetPanel$2.class
+ui\MainFrame.class
+ui\ModelPanel$1.class
+ui\ModelPanel$2.class
+ui\ModelPanel.class
+model\Dataset.class
+dao\DatasetDAO.class
+db\DBConnection.class
+ui\DatasetPanel$1.class
